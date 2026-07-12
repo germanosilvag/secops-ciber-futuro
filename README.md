@@ -14,3 +14,12 @@ Este projeto foi desenvolvido utilizando o NotebookLm para apoiar os estudos sob
 - Criar um guia de fácil acesso para futuras revisões e melhorias contínuas;
 - Praticar engenharia de prompts utilizando a IA nesse mercado que é extremamente criterioso e cuidadoso;
 
+## Fontes Utilizadas
+As seguintes fontes abertas foram utilizadas:
+
+1. Blue Team Handbook Incident Response Edition Don Murdoch
+2. The Practice of Network Security Monitoring
+3. Modern_Cryptography_and_LGPD_Compliance
+4. 2026_Cyber_Resilience_Blueprint
+5. Relatório Técnico_ Operações de Segurança (SecOps) no Ecossistema Microsoft
+6. Resumo Técnico Estratégico_ Framework MITRE ATT&CK para Defesa Proativa
