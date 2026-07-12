@@ -40,7 +40,7 @@ Referência essencial para segurança de aplicações, APIs, web, secure coding 
 3) SANS Internet Storm Center
 Muito bom para acompanhar ameaças atuais, análise técnica, incidentes, observações de tráfego malicioso e posts de profissionais experientes. É um site excelente para rotina de atualização.
 
-Variação do Prompt1
+## Variação do Prompt1
 Indique sites confiáveis, grandes especialistas e livros essenciais sobre Segurança da Informação.
 Quais mentes influentes, fontes confiáveis e livros são indispensáveis para quem deseja aprender Segurança da Informação?
 
