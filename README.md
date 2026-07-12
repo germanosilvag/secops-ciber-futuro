@@ -57,7 +57,7 @@ MITRE ATT&CK → estrutura detecção, hunting e cobertura de técnicas
 CISA → ajuda em priorização, alertas e defesa prática
 SANS ISC → ajuda no dia a dia operacional do SOC
 
-Variação do Prompt2
+## Variação do Prompt2
 Me indique três especialistas, três sites confiáveis e três livros de referência sobre Security Operations (SecOps).
 Quais são as melhores referências para pesquisa em SecOps, contemplando especialistas reconhecidos, sites especializados e livros clássicos?
 
