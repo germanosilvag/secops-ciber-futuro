@@ -270,5 +270,5 @@ Termo - Definição
 - SOAR (Security Orchestration, Automation and Response) - Plataforma que automatiza fluxos de resposta a incidentes e integra ferramentas de segurança.
 - Threat Intelligence	Processo de coleta, análise e compartilhamento de informações sobre ameaças para apoiar a tomada de decisão e fortalecer a defesa cibernética.
 
-
 ### 5.4 Prompts reutilizáveis
+
