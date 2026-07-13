@@ -1,14 +1,16 @@
 # secops-ciber-futuro
 
 ## Tema
-SecOps e Cibersegurança
+Cibersegurança
 
 ## 1. Contexto
-Este projeto foi desenvolvido utilizando o NotebookLm para apoiar os estudos sobre SecOps e Cibersegurança, reunindo mateiais e fontes confiáveis em um único ambiente.
+Este projeto foi desenvolvido utilizando o NotebookLm para apoiar os estudos sobre Cibersegurança, reunindo mateiais e fontes confiáveis em um único ambiente.
+Escolhi esse tema pois é o foco tanto da minha vida profissional quanto da atualidade.
+Estou aprendendo e melhorando, aperfeiçoando a cada dia meus conhecimentos no assunto.
 
 ## 2. Objetivos
 
-- Compreender os conceitos de ambos os temas, SecOps e Cibergurança de forma clara e didática;
+- Compreender os conceitos da Cibergurança de forma clara e didática;
 - Estudar as principais ferramenteas utilizadas para operar nesses ambientes;
 - Conhecer as melhores práticas implementadas pelos especialistas do mercado;
 - Criar um guia de fácil acesso para futuras revisões e melhorias contínuas;
@@ -44,22 +46,9 @@ Muito bom para acompanhar ameaças atuais, análise técnica, incidentes, observ
 Indique sites confiáveis, grandes especialistas e livros essenciais sobre Segurança da Informação.
 Quais mentes influentes, fontes confiáveis e livros são indispensáveis para quem deseja aprender Segurança da Informação?
 
-Prompt 2
-Me de fontes confiáveis, mentes extraordinárias e livros sobre SecOps.
-1) MITRE ATT&CK
-Para quem trabalha com Wazuh, Splunk, Sentinel, regras de correlação e hunting, esse site é praticamente obrigatório.
-2) CISA Cybersecurity Advisories
-É muito útil para rotina de priorização de riscos, resposta a incidentes e atualização de playbooks no SOC.
-3) SANS Internet Storm Center
-É um site que ajuda bastante a manter a cabeça em operação, detecção e investigação, e não só em teoria.
-
 MITRE ATT&CK → estrutura detecção, hunting e cobertura de técnicas
 CISA → ajuda em priorização, alertas e defesa prática
 SANS ISC → ajuda no dia a dia operacional do SOC
-
-## Variação do Prompt2
-Me indique três especialistas, três sites confiáveis e três livros de referência sobre Security Operations (SecOps).
-Quais são as melhores referências para pesquisa em SecOps, contemplando especialistas reconhecidos, sites especializados e livros clássicos?
 
 ## Dificuldades encontradas:
 - Respostas muito sempre genéricas e não resumidas, algo muito grande.
@@ -69,4 +58,19 @@ Quais são as melhores referências para pesquisa em SecOps, contemplando especi
 - Solicitei um resumo o pontos chaves mais utilizados pelos especialistas da área
 - Pedi exemplos e sites mais confiáveis e atualizados
 
-## 5.
+## 5. Guia básico, simples e didático de estudo do assunto
+
+### 5.1 Introdução
+
+### 5.2 Resumo Estruturado
+#### 5.2.1 O que é Cibersegurança
+#### 5.2.2 Objetivos da Cibersegurança
+#### 5.2.3 Principais componentes desse ambiente
+#### 5.2.4 Fluxo da operação de Cibersegurança
+#### 5.2.5 As ferramentas mais utilizadas
+#### 5.2.6 Boas Práticas do mercado
+#### 5.2.7 Desafios encontrados nos dias de hoje
+
+### 5.3 Glossário
+
+### 5.4 Prompts reutilizáveis
