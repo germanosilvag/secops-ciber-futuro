@@ -1,4 +1,4 @@
-# secops-ciber-futuro
+# ciberseguranca-do-futuro_estudos
 
 ## Tema
 Cibersegurança
