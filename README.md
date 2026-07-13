@@ -271,4 +271,19 @@ Termo - Definição
 - Threat Intelligence	Processo de coleta, análise e compartilhamento de informações sobre ameaças para apoiar a tomada de decisão e fortalecer a defesa cibernética.
 
 ### 5.4 Prompts reutilizáveis
+# Prompt1
+Explique o conceito de cibersegurança utilizando uma linguagem clara e didática, como se estivesse ensinando um estudante iniciante em Cibersegurança. Inclua definição, objetivo, exemplos práticos, vantagens, limitações e onde esse conceito é utilizado no mercado.
+
+# Prompt2
+Faça um resumo estruturado sobre cibersegurança em no máximo 10 tópicos. Destaque apenas os conceitos mais importantes para revisão antes de uma prova ou entrevista técnica.
+
+# Prompt3
+Compare SOC, NOC e SNOC em uma tabela contendo: objetivo, funcionamento, vantagens, limitações, principais casos de uso e exemplos de ferramentas
+
+# Prompt4
+Liste as principais boas práticas utilizadas por profissionais do ambiente bancário em Cibersegurança, explicando por que cada uma é importante, quais riscos reduz e como pode ser implementada em ambientes corporativos.
+
+# Prompt5
+xplique como identificar, diagnosticar e solucionar problemas relacionados a Cibersegurança no ambiente bancário, apresentando causas comuns, ferramentas utilizadas na investigação e possíveis soluções.
+
 
