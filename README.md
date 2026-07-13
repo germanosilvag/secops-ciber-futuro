@@ -284,6 +284,6 @@ Compare SOC, NOC e SNOC em uma tabela contendo: objetivo, funcionamento, vantage
 Liste as principais boas práticas utilizadas por profissionais do ambiente bancário em Cibersegurança, explicando por que cada uma é importante, quais riscos reduz e como pode ser implementada em ambientes corporativos.
 
 # Prompt5
-xplique como identificar, diagnosticar e solucionar problemas relacionados a Cibersegurança no ambiente bancário, apresentando causas comuns, ferramentas utilizadas na investigação e possíveis soluções.
+Explique como identificar, diagnosticar e solucionar problemas relacionados a Cibersegurança no ambiente bancário, apresentando causas comuns, ferramentas utilizadas na investigação e possíveis soluções.
 
 
