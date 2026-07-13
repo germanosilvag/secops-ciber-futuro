@@ -239,36 +239,36 @@ Déficit de Especialistas: A ausência de profissionais qualificados capazes de 
 
 ### 5.3 Glossário
 Termo - Definição
-AES (Advanced Encryption Standard)	Algoritmo de criptografia simétrica amplamente utilizado para proteger dados em repouso e em trânsito.
-ANPD - Autoridade Nacional de Proteção de Dados, responsável pela fiscalização da LGPD no Brasil.
-Blue Team - Equipe responsável pela defesa, monitoramento e resposta a incidentes em um ambiente corporativo.
-CID (CIA Triad) - Tríade formada por Confidencialidade, Integridade e Disponibilidade, princípios fundamentais da segurança da informação.
-CIS Controls - Conjunto de controles de segurança desenvolvido pelo Center for Internet Security para redução de riscos cibernéticos.
-CVE (Common Vulnerabilities and Exposures) - Catálogo público que identifica vulnerabilidades conhecidas em softwares e sistemas.
-CVSS (Common Vulnerability Scoring System) - Sistema utilizado para medir a severidade de vulnerabilidades de segurança.
-DAST (Dynamic Application Security Testing) - Teste dinâmico de segurança realizado em aplicações durante sua execução.
-DDoS (Distributed Denial of Service) - Ataque que busca indisponibilizar serviços por meio de grande volume de tráfego distribuído.
-DLP (Data Loss Prevention) - Conjunto de tecnologias para prevenir vazamento, perda ou exposição indevida de dados sensíveis.
-EDR (Endpoint Detection and Response) - Solução de monitoramento, detecção e resposta a ameaças em dispositivos finais.
-Framework - Estrutura de boas práticas utilizada para orientar processos de segurança e governança.
-Hardening - Processo de fortalecimento da segurança de sistemas por meio da redução da superfície de ataque.
-IAM (Identity and Access Management) - Conjunto de processos e tecnologias para gerenciamento de identidades e acessos.
-IAST (Interactive Application Security Testing) - Técnica de teste de segurança que combina análise estática e dinâmica durante a execução da aplicação.
-IDS (Intrusion Detection System) - Sistema responsável por detectar atividades suspeitas ou maliciosas na rede.
-IPS (Intrusion Prevention System) - Sistema capaz de detectar e bloquear automaticamente ataques em andamento.
-IOC (Indicator of Compromise) - Evidência técnica que indica a possibilidade de comprometimento de um sistema.
-LGPD - Lei Geral de Proteção de Dados, legislação brasileira que regulamenta o tratamento de dados pessoais.
-MITRE ATT&CK - Base de conhecimento que organiza táticas, técnicas e procedimentos utilizados por atacantes.
-MFA (Multi-Factor Authentication) - Método de autenticação que exige dois ou mais fatores para validar a identidade do usuário.
-NIST CSF	Framework do National Institute of Standards and Technology voltado para gestão de riscos em cibersegurança.
-PAM (Privileged Access Management) - Solução para gerenciamento e proteção de contas com privilégios elevados.
-Phishing - Técnica de engenharia social utilizada para obter credenciais ou informações sensíveis por meio de mensagens fraudulentas.
-Ransomware - Malware que criptografa dados e exige pagamento para sua liberação.
-SAST (Static Application Security Testing)- Análise estática de código-fonte para identificação de vulnerabilidades antes da execução da aplicação.
-SecOps (Security Operations) - Modelo operacional que integra Segurança da Informação e Operações de TI para monitorar, detectar e responder continuamente a ameaças.
-SIEM (Security Information and Event Management) - Plataforma que coleta, correlaciona e analisa eventos de segurança provenientes de diferentes fontes.
-SOAR (Security Orchestration, Automation and Response) - Plataforma que automatiza fluxos de resposta a incidentes e integra ferramentas de segurança.
-Threat Intelligence	Processo de coleta, análise e compartilhamento de informações sobre ameaças para apoiar a tomada de decisão e fortalecer a defesa cibernética.
+- AES (Advanced Encryption Standard)	Algoritmo de criptografia simétrica amplamente utilizado para proteger dados em repouso e em trânsito.
+- ANPD - Autoridade Nacional de Proteção de Dados, responsável pela fiscalização da LGPD no Brasil.
+- Blue Team - Equipe responsável pela defesa, monitoramento e resposta a incidentes em um ambiente corporativo.
+- CID (CIA Triad) - Tríade formada por Confidencialidade, Integridade e Disponibilidade, princípios fundamentais da segurança da informação.
+- CIS Controls - Conjunto de controles de segurança desenvolvido pelo Center for Internet Security para redução de riscos cibernéticos.
+- CVE (Common Vulnerabilities and Exposures) - Catálogo público que identifica vulnerabilidades conhecidas em softwares e sistemas.
+- CVSS (Common Vulnerability Scoring System) - Sistema utilizado para medir a severidade de vulnerabilidades de segurança.
+- DAST (Dynamic Application Security Testing) - Teste dinâmico de segurança realizado em aplicações durante sua execução.
+- DDoS (Distributed Denial of Service) - Ataque que busca indisponibilizar serviços por meio de grande volume de tráfego distribuído.
+- DLP (Data Loss Prevention) - Conjunto de tecnologias para prevenir vazamento, perda ou exposição indevida de dados sensíveis.
+- EDR (Endpoint Detection and Response) - Solução de monitoramento, detecção e resposta a ameaças em dispositivos finais.
+- Framework - Estrutura de boas práticas utilizada para orientar processos de segurança e governança.
+- Hardening - Processo de fortalecimento da segurança de sistemas por meio da redução da superfície de ataque.
+- IAM (Identity and Access Management) - Conjunto de processos e tecnologias para gerenciamento de identidades e acessos.
+- IAST (Interactive Application Security Testing) - Técnica de teste de segurança que combina análise estática e dinâmica durante a execução da aplicação.
+- IDS (Intrusion Detection System) - Sistema responsável por detectar atividades suspeitas ou maliciosas na rede.
+- IPS (Intrusion Prevention System) - Sistema capaz de detectar e bloquear automaticamente ataques em andamento.
+- IOC (Indicator of Compromise) - Evidência técnica que indica a possibilidade de comprometimento de um sistema.
+- LGPD - Lei Geral de Proteção de Dados, legislação brasileira que regulamenta o tratamento de dados pessoais.
+- MITRE ATT&CK - Base de conhecimento que organiza táticas, técnicas e procedimentos utilizados por atacantes.
+- MFA (Multi-Factor Authentication) - Método de autenticação que exige dois ou mais fatores para validar a identidade do usuário.
+- NIST CSF	Framework do National Institute of Standards and Technology voltado para gestão de riscos em cibersegurança.
+- PAM (Privileged Access Management) - Solução para gerenciamento e proteção de contas com privilégios elevados.
+- Phishing - Técnica de engenharia social utilizada para obter credenciais ou informações sensíveis por meio de mensagens fraudulentas.
+- Ransomware - Malware que criptografa dados e exige pagamento para sua liberação.
+- SAST (Static Application Security Testing)- Análise estática de código-fonte para identificação de vulnerabilidades antes da execução da aplicação.
+- SecOps (Security Operations) - Modelo operacional que integra Segurança da Informação e Operações de TI para monitorar, detectar e responder continuamente a - ameaças.
+- SIEM (Security Information and Event Management) - Plataforma que coleta, correlaciona e analisa eventos de segurança provenientes de diferentes fontes.
+- SOAR (Security Orchestration, Automation and Response) - Plataforma que automatiza fluxos de resposta a incidentes e integra ferramentas de segurança.
+- Threat Intelligence	Processo de coleta, análise e compartilhamento de informações sobre ameaças para apoiar a tomada de decisão e fortalecer a defesa cibernética.
 
 
 ### 5.4 Prompts reutilizáveis
