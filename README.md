@@ -4,15 +4,15 @@
 Cibersegurança
 
 ## 1. Contexto
-Este projeto foi desenvolvido utilizando o NotebookLm para apoiar os estudos sobre Cibersegurança, reunindo mateiais e fontes confiáveis em um único ambiente.
+Este projeto foi desenvolvido utilizando o NotebookLM para apoiar os estudos sobre Cibersegurança, reunindo materiais e fontes confiáveis em um único ambiente.
 Escolhi esse tema pois é o foco tanto da minha vida profissional quanto da atualidade.
 Estou aprendendo e melhorando, aperfeiçoando a cada dia meus conhecimentos no assunto.
 
 ## 2. Objetivos
 
-- Compreender os conceitos da Cibergurança de forma clara e didática;
-- Estudar as principais ferramenteas utilizadas para operar nesses ambientes;
-- Conhecer as melhores práticas implementadas pelos especialistas do mercado;
+- Compreender os conceitos da Cibersegurança de forma clara e didática;
+- Estudar as principais ferramentas utilizadas para operar nesses ambientes;
+- Conhecer as melhores práticas implementadas pelos especialistas da atualidade;
 - Criar um guia de fácil acesso para futuras revisões e melhorias contínuas;
 - Praticar engenharia de prompts utilizando a IA nesse mercado que é extremamente criterioso e cuidadoso;
 
@@ -52,7 +52,7 @@ SANS ISC → ajuda no dia a dia operacional do SOC
 
 ## Dificuldades encontradas:
 - Respostas muito sempre genéricas e não resumidas, algo muito grande.
-- Foi necessário solicitas exemplos mais reais e atuais.
+- Foi necessário solicitar exemplos mais reais e atuais.
 
 ## Estratégias utilizadas
 - Solicitei um resumo o pontos chaves mais utilizados pelos especialistas da área
@@ -63,7 +63,7 @@ SANS ISC → ajuda no dia a dia operacional do SOC
 ### 5.1 Introdução
 Este pequeno guia foi elaborado por mim, para estruturar, consolidar e ajudar demais estudantes durante o desenvolvimento dos seus estudos voltados para Segurança da Informação.
 O seu objetivo é servir como material de apoio rápido e dinâmico para estudantes e profissionais da área.
-Organizado em forma de guia para que os conceitos sejam claros e consiga entregar um bom indicador.
+Organizado na forma de guia para que os conceitos sejam claros e consiga entregar um bom indicador.
 
 ### 5.2 Resumo Estruturado
 #### 5.2.1 O que é Cibersegurança
