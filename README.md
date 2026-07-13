@@ -175,6 +175,39 @@ Veeam e Veritas: Soluções modernas de backup e recuperação, fundamentais par
 Finalmente, as tendências para 2026 apontam para a adoção massiva de defesa e simulação baseadas em IA, além do início da migração para padrões de criptografia pós-quântica (PQC) para garantir a segurança a longo prazo
 
 #### 5.2.6 Boas Práticas do mercado
+As melhores práticas de mercado utilizadas por especialistas hoje envolvem uma mudança de mentalidade de uma postura puramente reativa para uma postura proativa e preditiva, focada em antecipar ameaças antes que elas ocorram.
+Abaixo, detalho as práticas e estratégias fundamentais divididas por pilares críticos:
+- 1. Adoção de Frameworks e Normas Internacionais
+Especialistas utilizam estruturas padronizadas para guiar a governança e a operação. As principais referências incluem:
+NIST CSF 2.0: Organiza os resultados em seis funções críticas: Governar, Identificar, Proteger, Detectar, Responder e Recuperar.
+ISO/IEC 27001 e 27002: O padrão ouro para Sistemas de Gestão de Segurança da Informação (SGSI), focando na melhoria contínua através do ciclo PDCA.
+ISO 27701: Utilizada para estender a segurança à proteção da privacidade e dados pessoais, essencial para conformidade com a LGPD.
+CIS Controls e PCI DSS: Focados em controles técnicos rigorosos e segurança em transações financeiras.
+- 2. Estratégia Zero Trust (Confiança Zero)
+A prática moderna consolida o princípio de "nunca confiar, sempre verificar".
+A identidade do usuário é o novo perímetro de segurança.
+Implementação rigorosa de Autenticação Multifatorial (MFA) em todas as contas e o uso de gerenciadores de senhas.
+Aplicação do privilégio mínimo, restringindo acessos apenas ao necessário para a função do colaborador.
+- 3. Defesa e Automação baseadas em IA
+Com o surgimento de malwares autoevolutivos e ataques autônomos, especialistas estão "usando IA para combater IA".
+Detecção Inteligente: Uso de IA para identificar comportamentos anômalos em redes e sistemas em tempo real.
+Automação de Resposta: Implementação de tecnologias como EDR, XDR e SOAR para correlacionar dados de múltiplas fontes e automatizar a contenção de incidentes.
+Gestão de Patches em Tempo Real: Automação da atualização de softwares para reduzir a janela de exposição a vulnerabilidades conhecidas.
+- 4. Gestão de Riscos de Terceiros (TPRM)
+O conceito de "empresa estendida" reconhece que a segurança é tão forte quanto o elo mais fraco da cadeia de suprimentos.
+Realização de auditorias e avaliações de maturidade cibernética em fornecedores e parceiros antes e durante o contrato.
+Exigência de conformidade com padrões mínimos de segurança e transparência na lista de materiais de software (SBOM).
+- 5. Cultura de Segurança e o "Fator Humano"
+Especialistas entendem que a tecnologia sozinha não é suficiente, pois a falha humana continua sendo a causa raiz de muitos incidentes.
+Treinamentos Contínuos: Programas de conscientização que vão além de slides, utilizando simulações realistas de phishing, gamificação e até o metaverso.
+Higiene Cibernética básica: Ensinar os colaboradores a não conectar dispositivos USB desconhecidos, bloquear telas ao sair da mesa e reportar atividades suspeitas imediatamente.
+- 6. Segurança "Desde a Concepção" (by Design)
+A segurança é integrada no início de qualquer projeto ou desenvolvimento.
+Privacy by Design: Planejar a proteção de dados desde a fase de rascunho de novos produtos.
+SSDLC (Ciclo de Vida de Desenvolvimento de Software Seguro): Inserir testes de segurança (SAST, DAST e IAST) em todas as fases da criação de software.
+- 7. Preparação para o Futuro: Segurança Quântica
+Especialistas já começaram a inventariar ativos criptográficos para planejar a migração para a Criptografia Pós-Quântica (PQC), antecipando-se ao momento em que computadores quânticos poderão quebrar os algoritmos atuais.
+Para se manterem atualizados, esses profissionais acompanham fóruns de Threat Intelligence (Inteligência de Ameaças) e utilizam ferramentas como Shodan, MISP e OpenCTI para monitorar a Deep e Dark Web em busca de novas táticas e procedimentos de atacantes.
 
 
 #### 5.2.7 Desafios encontrados nos dias de hoje
